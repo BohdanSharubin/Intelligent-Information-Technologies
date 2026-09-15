@@ -1,0 +1,12 @@
+(deffacts sensors
+	(sensor (number 1) (status good))
+	(sensor (number 2) (status good))
+	(sensor (number 3) (status bad))
+	(sensor (number 4) (status good))
+	(sensor (number 5) (status bad))
+	(sensor (number 6) (status good))
+	(sensor (number 7) (status good))
+	(sensor (number 8) (status good))
+	(sensor (number 9) (status good))
+	(sensor (number 10) (status good))
+)
