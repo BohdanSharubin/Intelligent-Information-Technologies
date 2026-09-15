@@ -30,7 +30,7 @@
 
 ### 💻 Код рішення
 
-#### 1. Робота з днями тижня (Завдання 2) (`lab1/what-day-is.clp`)
+#### 1. Робота з днями тижня (Завдання 2) ([what-day-is.clp](./what-day-is.clp))
 
 ```clips
 (deffacts what-day-is-it?
@@ -38,7 +38,7 @@
    (Tomorrow is Friday))
 ```
 
-#### 2. Просте правило (Завдання 3) (`lab1/simple-rule.clp`)
+#### 2. Просте правило (Завдання 3) ([simple-rule.clp](./simple-rule.clp))
 
 ```clips
 (defrule day-of-week
@@ -48,7 +48,7 @@
 )
 ```
 
-#### 3. Впорядковані факти (Завдання 4) (`lab1/persons.clp`)
+#### 3. Впорядковані факти (Завдання 4) ([persons.clp](./persons.clp))
 
 ```clips
 ( deftemplate person
@@ -63,7 +63,7 @@
 	(person (name "Jordan") (age 53) (weight 96))
 )
 ```
-#### 4. Впорядковані факти (Завдання 4*) (`lab1/mult_persons.clp`)
+#### 4. Впорядковані факти (Завдання 4*) ([mult_persons.clp](./mult_persons.clp))
 
 ```clips
 ( deftemplate person
@@ -79,7 +79,7 @@
 )
 ```
 
-#### 5. Правила для пошуку (Завдання 5) (`lab1/find.clp`)
+#### 5. Правила для пошуку (Завдання 5) ([find.clp](./find.clp))
 
 ```clips
 (defrule find-by-name
